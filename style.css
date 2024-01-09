@@ -147,6 +147,7 @@ header{
 .offer-photo{
     margin: 20px;
     
+    
 }
 
 .offer-div1 h3{
@@ -169,8 +170,13 @@ header{
   .offer-photo .offer-img{
     width: 250px;
     margin: 50px 50px 90px 50px;
-    border: 5px solid red;
+    border: 12px solid red;
     border-radius: 50%;
+    padding: 26px;
+}
+.aktar{
+    width: 250px;
+    padding: 80px;
 }
 .offer-div2-info h1{
     color: #F00;
@@ -365,6 +371,7 @@ font-size: 18px;
 hr{
     width: 80%;
     margin: 0 auto;
+    color: rgb(40, 38, 38);
 }
 .footer-icon{
     margin: 0 auto;
