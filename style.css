@@ -1,0 +1,394 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding-top: 50px;
+}
+.header{
+    background-image: url("images/aktar.png");
+    width: 80%;
+    height: 650px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+}
+.header-div{
+ text-align: center;
+}
+.header .header-div h3{
+    color: white;
+    font-size: 32px;
+    padding-top: 200px;
+}
+.header .header-div h1{
+    color: white;
+    font-size: 72px;
+    width: 550px;
+    margin: 0 auto;
+}
+
+.parcentage .parcentage-info{
+    
+    text-align: center;
+}
+.parcentage .parcentage-info h1{
+    
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    padding-top: 50px;
+}
+.parcentage .parcentage-info h4{
+    color: #F00;
+    font-family: Inter;
+    font-size: 20px;
+    padding-top: 20px;
+
+}
+.parcentage .parcentage-info h2{
+   
+    font-family: Inter;
+    font-size: 48px;
+
+}
+
+.parcentage-photo{
+
+  text-align: center;
+  margin: 0 auto;
+  padding: 25px;
+ 
+}
+.photos{
+    height: 450px;
+    width: 600px;
+}
+.welcome{
+  
+}
+.welcome-div{
+    background-image: url("images/Vectorrr.png");
+    width: 80%;
+    height: 550px;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: flex;
+   
+}
+.welcome
+.welcome-div-info{
+    margin: 80px;
+    padding-top: 100px;
+}
+.welcome-div h1{
+    color: white;
+    font-size: 70px;
+   width: 550px;
+   padding-bottom: 20px;
+   
+
+}
+.welcome-div p{
+    color: white;
+    font-size: 18px;
+    width: 630px;     
+}
+.hotel-div{
+    margin: 0 auto;
+    width: 80%;
+    height: 300px;
+    border-radius: 10px;
+}
+.hotel{
+    padding-top: 50px;
+}
+.hotel-div{
+    background-color:rgb(241, 221, 221);
+   text-align: center;
+   padding-top: 120px;
+    
+}
+.hotel-div span{
+    color: red;
+}
+.hotel-div p{
+    font-size: 32px;
+    padding: 7px;
+   
+}
+.hotel-div button{
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #F00;
+    color: white;
+}
+.best-offer{
+    padding-top: 65px;
+}
+.offer{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+    height: 400px;
+    padding-top: 65px;
+    background: #FFF;
+   
+}
+.offer-div1{
+    margin: 20px;
+    padding-top: 80px;
+}
+.offer-div2{
+    margin: 80px;
+    padding-top: 20px;
+}
+.offer-photo{
+    margin: 20px;
+    
+}
+
+.offer-div1 h3{
+    color: #F00;
+    font-size: 18px;
+    padding: 7px;
+   
+}
+.offer-div1 h1{
+  font-size: 35px;
+  margin: 7px;
+}
+.offer-div1 p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 16px;
+    width: 350px;
+    
+}
+  .offer-photo .offer-img{
+    width: 250px;
+    margin: 50px 50px 90px 50px;
+    border: 5px solid red;
+    border-radius: 50%;
+}
+.offer-div2-info h1{
+    color: #F00;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 38px;
+}
+.offer-div2-info p{
+    width: 250px;
+    color: rgba(7, 2, 17, 0.60);
+}
+.offer-div2-photo .offer-img2{
+    width: 120px;
+    height: 120px; 
+    padding: 20px;
+}
+.holi{
+    padding-top: 50px;
+}
+.holidays{
+    width: 80%;
+    height: 750px;
+    margin: 0 auto;
+    background: #F00;
+    
+}
+.holidays-info{
+    text-align: center;
+    background-color: white;
+    
+}
+.holidays .holidays-info h4{
+font-size: 18px;
+}
+
+.holidays .holidays-info h1{
+    font-size: 60px;
+    padding: 20px;
+}
+
+.holidays .holidays-info p{
+
+     width: 650px;
+     color: rgba(7, 2, 17, 0.60);
+     text-align: center;
+     font-size: 18px;
+     margin: 0 auto;
+
+}
+
+.holidays .holidays-info h1 span{
+    color: red;
+
+}
+.holiday-photo{
+    
+}
+.holidays-img{
+    margin: 0 auto;
+    height: 320px;
+    background-image: url("images/Rectangle\ 1.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: white;
+    background-size: 320px;
+    display: flex;
+    padding-left: 100px;
+    
+}
+.holidays-image{
+    height: 500px;
+    width: 500px;
+    
+}
+.holidays-images{
+ text-align: center;
+ padding-left: 120px;
+ width: 220px;
+ margin: 100px;
+  
+}
+.holidays-bd-img{
+
+}
+.fortfolio-file{
+    padding-top: 80px;
+}
+.fortfolio{
+    width: 80%;
+    height: 890px;
+    
+    margin: 0 auto;
+}
+.fortfolio-info h3{
+    font-size: 30px;
+    color: red;
+}
+.fortfolio-info h1{
+    font-size: 70px;
+    padding: 10px 0;
+}
+.fortfolio-info p{
+    font-size: 20px;
+    width: 600px;
+    padding-bottom: 15px;
+    color: rgba(7, 2, 17, 0.60);
+}
+.fortfolio-img{
+    width: 380px;
+    height: 320px;
+    margin: 5px;
+    padding-left: 13px;
+    
+}
+.fortfolio-img:hover{
+    width: 350px;
+   
+}
+.news{
+    padding-top: 70px;
+}
+.newsletter{
+    text-align: center;
+    width: 80%;
+    height: 450px;
+    margin: 0 auto;
+    background: rgba(255, 0, 0, 0.05);
+    padding-top: 65px;
+    border-radius: 15px;
+    
+}
+.newsletter h1{
+    font-size: 40px;
+    padding: 10px;
+}
+.newsletter p{
+    width: 650px;
+    margin: 0 auto;
+}
+.newsletter-info{
+    padding-top: 20px;
+}
+.newsletter-info input{
+    width: 240px;
+    height: 40px;
+    border-radius: 25px 0 0 25px;
+    padding-left: 10px;
+
+}
+.newsletter-info button{
+    width: 140px;
+    height: 43px;
+    border-radius:  0 25px 25px 0 ;
+    font-size: 18px;
+    background-color: #F00;
+    color: white;
+}
+.foot{
+    padding-top: 90px;
+}
+.footer{
+    background: #070211;
+    width: 100%;
+    height: 800px;
+
+}
+.footer-info{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-info2{
+    display: block;
+    margin: 160px;
+}
+.footer-info2 p >img{
+
+}
+.footer .footer-info .footer-info1 p{
+    color: white;
+    font-size: 24px;
+    width: 350px;
+    margin: 140px;
+    padding-top: 30px;
+}
+.footer .footer-info .footer-info2 .footer-info2-call p{
+   color: white;
+   font-size: 20px;
+}
+.footer .footer-info .footer-info2 .footer-info2-website p{
+    color: white;
+    font-size: 20px;
+}
+hr{
+    width: 80%;
+    margin: 0 auto;
+}
+.footer-icon{
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px;
+
+}
+.icone{
+    width: 180px;
+}
+.footer-last {
+     color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-last1{
+    margin: 140px;
+    font-size: 20px;
+}
+.footer-last2{
+    margin: 140px;
+    font-size: 22px;
+}
+
+
+
+
